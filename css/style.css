@@ -1,0 +1,19 @@
+.first{
+    width: 30%;
+    background-color: blue;
+    
+    margin: 1%;
+    display: inline-block;
+    
+}
+.two{
+    width: 33%;
+    background-color: brown;
+}
+.three{
+    width: 33%;
+    background-color: cornsilk;
+}
+.two h1{
+    font-size:80px;
+}
